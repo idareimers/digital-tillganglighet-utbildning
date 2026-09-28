@@ -43,4 +43,4 @@ Formuläret är en demonstration. Inga uppgifter skickas eller lagras; JavaScrip
 
 ## Avsiktliga problem i före-versionen
 
-Före-versionen demonstrerar begränsade och dokumenterade problem med textförstoring och ökade textavstånd, rubriker, alt-texter, tangentbord, fokus, fokusordning, etikett i namn, formuläretiketter, gruppering, instruktioner, obligatoriska fält, felmeddelanden och statusmeddelanden. Full beskrivning och WCAG-koppling finns i `facit.html`.
+Före-versionen demonstrerar begränsade och dokumenterade problem med flödesomformning, textförstoring och ökade textavstånd, rubriker, alt-texter, tangentbord, fokus, fokusordning, etikett i namn, formuläretiketter, gruppering, instruktioner, obligatoriska fält, felmeddelanden och statusmeddelanden. Full beskrivning och WCAG-koppling finns i `facit.html`.
